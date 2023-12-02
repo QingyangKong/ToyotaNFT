@@ -1,2 +1,4 @@
 *.enc
 node_modules
+artifacts
+cache
