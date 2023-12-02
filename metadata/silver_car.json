@@ -1,0 +1,24 @@
+{
+    "description": "A digital collectible NFT showcasing the Vintage Victory, a classic racer from the golden era of motorsport, reborn for the metaverse.", 
+    "external_url": "https://openseacreatures.io/3", 
+    "image": "https://ipfs.filebase.io/ipfs/QmdM7exySvnnvgoAwCL3fUZUkNosSaMHwiDaqBryiB4qiY", 
+    "name": "Retro Racer: Vintage Victory",
+    "attributes": [
+        {
+            "trait_type": "Color", 
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Tires", 
+            "value": "Road Grippers"
+        },
+        {
+            "trait_type": "Special_feature", 
+            "value": "Nitro Boost"
+        },
+        {
+            "trait_type": "Rarity", 
+            "value": "Ultra Rare"
+        }
+    ]
+}

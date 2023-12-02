@@ -1,0 +1,24 @@
+{
+    "description": "An exclusive NFT featuring the Hyperdrive Edition of the Speed Demon, a car known for its futuristic design and unparalleled velocity on the digital track.", 
+    "external_url": "https://openseacreatures.io/3", 
+    "image": "https://ipfs.filebase.io/ipfs/QmS6KqXM4tL2jXb245eaPVrXYmzuY2xsscEcbwnW5fEYDi", 
+    "name": "Speed Demon: Hyperdrive Edition",
+    "attributes": [
+        {
+            "trait_type": "Color", 
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Tires", 
+            "value": "All-Terrain Warriors"
+        },
+        {
+            "trait_type": "Special_feature", 
+            "value": "Eco Drive System"
+        },
+        {
+            "trait_type": "Rarity", 
+            "value": "Super Legendary"
+        }
+     ]
+  }

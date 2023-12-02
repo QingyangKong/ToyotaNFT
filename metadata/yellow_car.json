@@ -1,0 +1,24 @@
+{
+    "description": "This NFT immortalizes the Trailblazer Titan, a monstrous machine built to conquer the most challenging terrains in the virtual wilderness.", 
+    "external_url": "https://openseacreatures.io/3", 
+    "image": "https://ipfs.filebase.io/ipfs/QmQu539Xre9e7BZED44rMSRuHuEMhom75VbYAfeoVJWWLk", 
+    "name": "Offroad Beast: Trailblazer Titan",
+    "attributes": [
+        {
+            "trait_type": "Color", 
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Tires", 
+            "value": "Titan Treads"
+        },
+        {
+            "trait_type": "Special_feature", 
+            "value": "Beast Mode Activated"
+        },
+        {
+            "trait_type": "Rarity", 
+            "value": "Legendary"
+        }
+    ]
+}
