@@ -25,3 +25,6 @@ Input the contract address and add 5 LINKs into the balance.
 click the three dots and in the top right<br>
 click "refresh metadata"<br>
 refresh the page
+
+## Sample
+Please check NFT on Opensea [here](https://testnets.opensea.io/assets/sepolia/0x542c1e610acfe916cfb5d2e801629838093966f6/0). Please turn on the [upkeep](https://automation.chain.link/sepolia/90238671915813578359628247776465279684115696364976753310912712070172555087380) to make it dynamic.
