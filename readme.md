@@ -8,7 +8,7 @@
 
 2. Set envrionment variable:
 - `npx env-enc set-pw` and then input a password
-- `npx env-enc set` to set 2 environment variable `PRIVATE_KEY` and `SEPOLIA_RPC_URL`.
+- `npx env-enc set` to set 2 environment variable `PRIVATE_KEY` and `FUJI_RPC_URL`.
 
 3. Compile and deploy on Ethereum Sepolia:
 - `npx hardhat compile`
@@ -27,4 +27,4 @@ click "refresh metadata"<br>
 refresh the page
 
 ## Sample
-Please check NFT on Opensea [here](https://testnets.opensea.io/assets/sepolia/0x542c1e610acfe916cfb5d2e801629838093966f6/0). Please turn on the [upkeep](https://automation.chain.link/sepolia/90238671915813578359628247776465279684115696364976753310912712070172555087380) to make it dynamic.
+Please check NFT on Opensea [here](https://testnets.opensea.io/assets/avalanche-fuji/0x351d64c79fe3dbbb99762e9864c19f9f5a540953/0). Please turn on the [upkeep](https://automation.chain.link/fuji/83881029675942488756942993316654624457738606195197815948233990029820563087411) to make it dynamic.
